@@ -1,3 +1,14 @@
+# AUTHOR
+Muhammad Ichsan Haekal
+
+# find me on:
+
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-blue.svg)](https://github.com/leemrtnzz)
+
+![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/uduktrash)
+
+[![Instagram](https://img.shields.io/badge/Instagram-Profile-blue.svg)](https://www.instagram.com/yovtrash)
+
 # X Data Scraper Extension
 
 X Data Scraper adalah ekstensi browser canggih yang dirancang untuk mengumpulkan data dari X (sebelumnya Twitter) secara otomatis. Alat ini bekerja dengan memantau lalu lintas jaringan (network traffic) untuk menangkap data dari endpoint GraphQL Twitter secara real-time.
