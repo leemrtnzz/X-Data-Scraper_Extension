@@ -57,3 +57,6 @@ Selesai: Ikon ekstensi akan muncul di toolbar browser Anda.
 # ⚠️ Disclaimer
 
 Alat ini dibuat hanya untuk tujuan edukasi dan penelitian. Harap gunakan secara bertanggung jawab. Pengambilan data secara masif dan cepat (scraping agresif) dapat melanggar Ketentuan Layanan X dan berisiko pada pembatasan akun (rate limit). Gunakan dengan kecepatan wajar layaknya manusia.
+
+> [!CAUTION]
+> Semua risiko yang timbul dari penggunaan alat ini sepenuhnya menjadi tanggung jawab pengguna. Pengguna harus memastikan bahwa penggunaan alat ini sesuai dengan hukum dan regulasi yang berlaku di negara atau wilayahnya.
